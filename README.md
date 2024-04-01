@@ -8,8 +8,9 @@ Integrating with Spotify API and extracting Data. Deploying code on AWS Lambda f
 
 ### Services used
  The Project utilizes the following AWS Services
-  1. Spotify API
+  1. AWS S3 (Simple Storage Service)
   2. AWS Lambda
-  3. AWS S3 (Simple Storage Service)
+  3. Cloud Watch
   4. AWS Glue
   5. Amazon Athena
+  6. Data Catalog
