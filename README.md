@@ -6,3 +6,10 @@ Integrating with Spotify API and extracting Data. Deploying code on AWS Lambda f
 ## Architecture
 ![Architecture Diagram](https://github.com/mythili2734/Spotify-End-To-End-Data-Engineering-Project/assets/158598007/54c09f5a-9271-428b-9dc0-3b3422899d11)
 
+### Services used
+## The Project utilizes the following AWS Services
+  1. Spotify API
+  2. AWS Lambda
+  3. AWS S3 (Simple Storage Service)
+  4. AWS Glue
+  5. Amazon Athena
