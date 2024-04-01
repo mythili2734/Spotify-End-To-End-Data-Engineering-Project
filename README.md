@@ -17,3 +17,12 @@ This API contains information about music artist, albums and songs
   4. AWS Glue
   5. Amazon Athena
   6. Data Catalog
+
+### Install Packages
+'''
+pip install pandas
+pip install numpy
+pip install spotipy
+'''
+
+
